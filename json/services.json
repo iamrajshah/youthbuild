@@ -1,0 +1,20 @@
+{
+    "services": [
+        {
+            "icon": "icon-math",
+            "heading": "Education",
+            "details": "We are providing things like bags, notebooks to the childrens who are not capable to purchase these things."
+        },
+        {
+            "icon": "icon-star",
+            "heading": "Old age visit",
+            "details": "We are keen to meet-and-greet the members of old age home and make them feel happy by celebrating festivals with them."
+        },
+
+        {
+            "icon": "icon-globe",
+            "heading": "Support",
+            "details": "We are ready to support anything which can bring some change to society."
+        }
+    ]
+}

@@ -1,0 +1,153 @@
+{
+    "tabHeader":[
+        {
+            "classA": "tab-label active-btn",
+            "heading": "Diwali Celebration 2018",
+            "href": "#tab-1"
+        },
+        {
+            "classA": "tab-label",
+            "heading": "Diwali Celebration 2016",
+            "href": "#tab-2"
+        },
+        {
+            "classA": "tab-label",
+            "heading": "Education Encouragement",
+            "href": "#tab-3"
+        },
+        {
+            "classA": "tab-label",
+            "heading": "Social Campaigns",
+            "href": "#tab-4"
+        },
+        {
+            "classA": "tab-label",
+            "heading": "Youth Growth",
+            "href": "#tab-5"
+        }
+    ],
+    "ourWork": [
+        {
+            "id":"tab-1",
+            "classDiv": "tab-item tab-active",
+            "tabContent":[
+                {
+                    "subHeading": "Sweets",
+                    "info": "Diwali gift to people.",
+                    "imageSrc": "img/raj/sweetsPack.jpg"
+                },
+                {
+                    "subHeading": "With member of old age",
+                    "info": "Picture from an event while feeding them.",
+                    "imageSrc": "img/raj/feedin1.jpg"
+                },
+                {
+                    "subHeading": "With member of old age",
+                    "info": "Picture from an event while feeding them.",
+                    "imageSrc": "img/raj/feedin2.jpg"
+                },
+                {
+                    "subHeading": "Team",
+                    "info": "Team members with Aaji.",
+                    "imageSrc": "img/raj/filterGroup.jpg"
+                }
+            ]
+        },
+        {
+            "id": "tab-2",
+            "classDiv": "tab-item",
+            "tabContent": [{
+                    "subHeading": "Meet",
+                    "info": "We meet them at their place.",
+                    "imageSrc": "img/raj/oldAge.jpg"
+                },
+                {
+                    "subHeading": "Place",
+                    "info": "Name of the Aashram.",
+                    "imageSrc": "img/raj/place.jpg"
+                },
+                {
+                    "subHeading": "Sticker",
+                    "info": "Sweet box are wrapped with this.",
+                    "imageSrc": "img/raj/poster2016.jpg"
+                },
+                {
+                    "subHeading": "Team",
+                    "info": "Happy faces during event.",
+                    "imageSrc": "img/raj/Team2016.jpg"
+                }
+            ]
+        },
+        {
+            "id": "tab-3",
+            "classDiv": "tab-item",
+            "tabContent": [{
+                    "subHeading": "Study material",
+                    "info": "Bags, Pencil And Stationary.",
+                    "imageSrc": "img/raj/StudyMaterial.jpg"
+                },
+                {
+                    "subHeading": "News Of the day",
+                    "info": "One of leading newspaper had our story.",
+                    "imageSrc": "img/raj/newspaper1.jpg"
+                },
+                {
+                    "subHeading": "Students",
+                    "info": "Future of our country.",
+                    "imageSrc": "img/raj/AllSmallKids.jpg"
+                },
+                {
+                    "subHeading": "Team",
+                    "info": "After distributing our team.",
+                    "imageSrc": "img/raj/group.jpg"
+                }
+            ]
+        }, 
+        {
+            "id": "tab-4",
+            "classDiv": "tab-item",
+            "tabContent": [{
+                    "subHeading": "Poster of event",
+                    "info": "YouthBuild poster on sweet pack.",
+                    "imageSrc": "img/raj/Faral1.jpg"
+                },
+                {
+                    "subHeading": "News",
+                    "info": "Raigad times have appreciate our work.",
+                    "imageSrc": "img/raj/Faral.jpg"
+                },
+                {
+                    "subHeading": "Guest of the event",
+                    "info": "PSI of mahsla giving sweet box to one of the person in village.",
+                    "imageSrc": "img/raj/Faral2.jpg"
+                },
+                {
+                    "subHeading": "Snapshots",
+                    "info": "Member of village attending event.",
+                    "imageSrc": "img/raj/Faral4.jpg"
+                }
+            ]
+        }, 
+        {
+            "id": "tab-5",
+            "classDiv": "tab-item",
+            "tabContent": [{
+                    "subHeading": "Request from school",
+                    "info": "School has requested us for helping two students.",
+                    "imageSrc": "img/raj/School Certificate.jpg"
+                },
+                {
+                    "subHeading": "Students with teacher",
+                    "info": "Selfie with teacher after huge success.",
+                    "imageSrc": "img/raj/School Certificate1.jpg"
+                },
+                {
+                    "subHeading": "Students with medals",
+                    "info": "Students with medals and state level certificate.",
+                    "imageSrc": "img/raj/School Certificate2.jpg"
+                }
+            ]
+        }
+       
+    ]
+}

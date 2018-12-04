@@ -426,13 +426,7 @@ a.tab-label:hover, a.tab-label.active-btn {
 	color: #fff;
 	font-size: 0.8em;
 }
-#latest-news {
-	background: #f3f3f3 none repeat scroll 0 0;
-	box-shadow: 0px -10px 9px -11px rgba(0, 0, 0, 0.5);
-	padding: 6em 2em;
-	position: relative;
-	z-index: 3;
-}
+
 .news-date {
 	background: #6f9600 none repeat scroll 0 0;
 	clear: both;
@@ -464,8 +458,6 @@ a.tab-label:hover, a.tab-label.active-btn {
 	font-size: 0.85em;
 }
 
-
-
 #contact {
 	background: none repeat scroll 0 0 #fff;
 	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
@@ -473,13 +465,7 @@ a.tab-label:hover, a.tab-label.active-btn {
 	position: relative;
 	z-index: 2;
 }
-#members {
-	background: none repeat scroll 0 0 #fff;
-	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
-	padding: 6em 2em;
-	position: relative;
-	z-index: 2;
-}
+
 #contact input, #contact textarea {
 	background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
 	border-radius: 3px;
@@ -516,6 +502,57 @@ form.customform button.color-btn {
 	margin: 0.625em;
 	text-align: center;
 	width: 26px;
+}
+#donate {
+	background: #f3f3f3 repeat scroll 0 0 #fff;
+	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+	padding: 6em 2em;
+	position: relative;
+	z-index: 3;
+}
+#donate p {
+	font-size: 0.85em;
+	font-style: normal;
+	line-height: 2em;
+	text-align: center;
+	
+}
+#paymentType h2 {
+	text-align: center;
+	width: 100%;
+	font-weight: bold;
+}
+#paymentType img {
+	border: 0;
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#donors {
+	background: #f3f3f3 none repeat scroll 0 0;
+	box-shadow: 0px -10px 9px -11px rgba(0, 0, 0, 0.5);
+	padding: 6em 2em;
+	position: relative;
+	z-index: 1;
+
+}
+
+#members {
+
+	background:none repeat scroll 0 0 #fff;
+	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+	padding: 6em 2em;
+	position: relative;
+	z-index: 2;
+}
+#latest-news {
+	background: #f3f3f3 none repeat scroll 0 0;
+	box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+	padding: 6em 2em;
+	position: relative;
+	z-index: 3;
 }
 #map-block {
   filter: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="g"><feColorMatrix type="matrix" values="0.3 0.3 0.3 0 0 0.3 0.3 0.3 0 0 0.3 0.3 0.3 0 0 0 0 0 1 0"/></filter></svg>#g');

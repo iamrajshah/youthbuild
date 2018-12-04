@@ -1,0 +1,11 @@
+{
+    "donors": [
+        {
+            "name": "Navneet Parekh",
+            "rupees": "₹:1000",
+            "email": "kiranparekhoffice@gmail.com",
+            "imageSrc": "img/raj/Donors/navneetKaka.jpg"
+        }      
+        
+    ]
+}

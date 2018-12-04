@@ -1,0 +1,13 @@
+{
+    "donate": [
+        {
+            "type": "PayTM",
+            "imageSrc": "img/raj/paymentType/paytm.jpg"
+        },
+        {
+            "type": "Google Pay",
+            "imageSrc": "img/raj/paymentType/tezz.jpg"
+        }
+
+    ]
+}

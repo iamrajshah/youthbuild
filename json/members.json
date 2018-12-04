@@ -1,0 +1,46 @@
+{
+    "members": [
+        {
+            "name": "Kiran Parekh",
+            "role": "Founder",
+            "mobileNumber": "09970008999",
+            "email": "kiranparekhoffice@gmail.com",
+            "imageSrc": "img/raj/kiranP.jpg"
+        },
+        {
+             "name": "Dipesh Shinde",
+             "role": "Member",
+             "mobileNumber": "09967228499‬",
+             "email": "dipesh224@gmail.com",
+             "imageSrc": "img/raj/Dipesh.jpg"
+        },
+        {
+             "name": "Mukesh Pawar",
+             "role": "Member",
+             "mobileNumber": "08698444299‬‬",
+             "email": "omsairam0786@gmail.com",
+             "imageSrc": "img/raj/Mukesh.jpg"
+        },
+        {
+            "name": "Rahul Jain",
+            "role": "Member",
+            "mobileNumber": "08698444299‬‬",
+            "email": "rjcoolboy95@gmail.com",
+            "imageSrc": "img/raj/rahul.jpg"
+        },
+        {
+            "name": "Pravesh Kajare",
+            "role": "Member",
+            "mobileNumber": "09769892059",
+            "email": "praveshkajare@gmail.com",
+            "imageSrc": "img/raj/Pravesh.jpg"
+        },
+        {
+            "name": "Rajesh Shah",
+            "role": "Member",
+            "mobileNumber": "09623172772",
+            "email": "shahrajesh2113@yahoo.com",
+            "imageSrc": "img/raj/Rajesh.jpg"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "scrollItems": [
+        {
+            "heading": "Diwali 2018",
+            "details": "This year diwali is worth to remember as we are celebrating with them after 2 years.",
+            "imageSrc": "img/raj/ScrollImages/filterGroup.jpg"
+        },
+        {
+            "heading": "2016 Event",
+            "details": "After giving study material to needy students we tried to bring smile on the old people or we can say sweet people.",
+            "imageSrc": "img/raj/ScrollImages/team2016.jpg"
+        },
+        
+        {
+            "heading": "Education is need",
+            "details": "Distributed school related thing to students of different school in Shriwardhan and Mhasala taluka, who are not capable to buy the same",
+            "imageSrc": "img/raj/ScrollImages/Event3.jpg"
+        },
+        {
+            "heading": "Adivasi",
+            "details": "We started with this event as an unique idea to celebrate diwali with Aadivasi people by giving them 'faral'.",
+            "imageSrc": "img/raj/ScrollImages/YouthBuildGroup.jpg"
+        },
+        {
+            "heading": "Happiness",
+            "details": "Our NGO!!!",
+            "imageSrc": "img/raj/ScrollImages/SecondImage.jpg"
+        }
+    ]
+}
